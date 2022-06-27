@@ -1,10 +1,15 @@
 import React from 'react'
 import Header from './components/Header'
-import { Container } from 'react-bootstrap'
+import { Router, Routes } from 'react-router'
+import Footer from './components/Footer'
 
 const App = () => {
     return (
-        <Header />
+        <app>
+            <Header />
+            <Footer />
+        </app>
+        
     )
 }
 
