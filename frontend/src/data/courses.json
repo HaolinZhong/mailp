@@ -1,0 +1,32 @@
+[
+  {
+    "number" : "6035",
+    "aliases" : "[\"IIS\"]",
+    "id" : "CS-6035",
+    "foundational" : "true",
+    "deprecated" : "false",
+    "link" : "https:\/\/omscs.gatech.edu\/cs-6035-introduction-to-information-security",
+    "department" : "CS",
+    "name" : "Introduction to Information Security"
+  },
+  {
+    "number" : "6260",
+    "aliases" : "[\"AC\"]",
+    "id" : "CS-6260",
+    "foundational" : "true",
+    "deprecated" : "false",
+    "link" : "https:\/\/omscs.gatech.edu\/cs-6260-applied-cryptography",
+    "department" : "CS",
+    "name" : "Applied Cryptography"
+  },
+  {
+    "number" : "6200",
+    "aliases" : "[\"GIOS\", \"IOS\"]",
+    "id" : "CS-6200",
+    "foundational" : "true",
+    "deprecated" : "false",
+    "link" : "https:\/\/omscs.gatech.edu\/cs-6200-introduction-operating-systems",
+    "department" : "CS",
+    "name" : "Introduction to Operating Systems"
+  }
+]

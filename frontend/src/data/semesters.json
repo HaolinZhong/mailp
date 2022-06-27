@@ -1,0 +1,56 @@
+[
+  {
+    "id" : "2020-1",
+    "season" : "1",
+    "year" : "2020",
+    "name" : "Spring 2020"
+  },
+  {
+    "id" : "2020-2",
+    "season" : "2",
+    "year" : "2020",
+    "name" : "Summer 2020"
+  },
+  {
+    "id" : "2020-3",
+    "season" : "3",
+    "year" : "2020",
+    "name" : "Fall 2020"
+  },
+  {
+    "id" : "2021-1",
+    "season" : "1",
+    "year" : "2021",
+    "name" : "Spring 2021"
+  },
+  {
+    "id" : "2021-2",
+    "season" : "2",
+    "year" : "2021",
+    "name" : "Summer 2021"
+  },
+  {
+    "id" : "2021-3",
+    "season" : "3",
+    "year" : "2021",
+    "name" : "Fall 2021"
+  },
+  {
+    "id" : "2022-1",
+    "season" : "1",
+    "year" : "2022",
+    "name" : "Spring 2022"
+  },
+  {
+    "id" : "2022-2",
+    "season" : "2",
+    "year" : "2022",
+    "name" : "Summer 2022"
+  },
+  {
+    "id" : "2022-3",
+    "season" : "3",
+    "year" : "2022",
+    "name" : "Fall 2022"
+  }
+]
