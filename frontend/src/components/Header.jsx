@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Navbar, Nav, NavDropdown, Form, FormControl, Button, Image } from 'react-bootstrap'
+import { Container, Navbar, Nav, NavDropdown, Form, FormControl, Button, Image, NavItem } from 'react-bootstrap'
 import { LinkContainer } from 'react-router-bootstrap'
 
 import logo from './logo_brand.png'
@@ -10,8 +10,8 @@ const Header = () => {
         <header>
             <Navbar bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand>
-                        <image src={logo}>Mailp</image>
+                    <Navbar.Brand className='my-1'>
+                        <img src={logo} width="110" height="50" alt="Mailp" />
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
@@ -20,9 +20,10 @@ const Header = () => {
                             style={{ maxHeight: '100px' }}
                             navbarScroll
                         >
-                            <Nav.Link>Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
 
-                            <Nav.Link>Courses</Nav.Link>
+
+                            <Nav.Link href="/courses">Courses</Nav.Link>
 
 
                         </Nav>
@@ -49,7 +50,7 @@ const Header = () => {
                             <Nav.Link className='mx-2 my-1'>
                                 <iframe src="https://ghbtns.com/github-btn.html?user=HaolinZhong&repo=mailp&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
                             </Nav.Link>
-                            
+
                         </Nav>
 
 
