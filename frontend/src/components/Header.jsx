@@ -1,6 +1,5 @@
 import React from 'react'
-import { Container, Navbar, Nav, NavDropdown, Form, FormControl, Button, Image, NavItem } from 'react-bootstrap'
-import { LinkContainer } from 'react-router-bootstrap'
+import { Container, Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap'
 
 import logo from './logo_brand.png'
 

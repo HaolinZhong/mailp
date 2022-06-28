@@ -1,5 +1,5 @@
 import React from 'react'
-import { Col, Container, Row, Toast, ToastContainer } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 import { useParams } from 'react-router'
 import ReviewRow from '../components/ReviewRow'
 import reviews from '../data/reviews.json'

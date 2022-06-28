@@ -15,7 +15,7 @@ const ReviewRow = ({ review }) => {
                 </Card.Header>
                 <Card.Body>
                     <Row className='my-3'>
-                        <Card.Text style={{fontSize: 15, fontWeight: "lighter"}}>
+                        <Card.Text style={{fontSize: 15, fontFamily: 'Roboto'}}>
                             {review.body}
                         </Card.Text>
                     </Row>
