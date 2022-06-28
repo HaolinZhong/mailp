@@ -9,13 +9,13 @@ const Header = () => {
         <header>
             <Navbar bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand className='my-1'>
-                        <img src={logo} width="110" height="50" alt="Mailp" />
+                    <Navbar.Brand>
+                        <img src={logo} width="125" height="55" alt="Mailp" />
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
-                            className="me-auto my-2 mx-2 my-lg-0"
+                            className="me-auto mx-2 my-lg-0 py-0"
                             style={{ maxHeight: '100px' }}
                             navbarScroll
                         >
@@ -37,7 +37,7 @@ const Header = () => {
                         </Form>
 
                         <Nav
-                            className="ms-auto my-2 mx-2 my-lg-0"
+                            className="ms-auto mx-2 my-lg-0"
                             style={{ maxHeight: '100px' }}
                             navbarScroll
                         >
