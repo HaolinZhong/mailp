@@ -1,16 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const CourseRow = ({course}) => {
 
   return (
     <tr>
-      <td>{course.id}</td>
+      <td>{course.dept}</td>
+      <td>{course.code}</td>
       <td>
-        <a href={`/courses/${course.id}`}>{course.name}</a>  
+        <Link to={`/courses/${course._id}`}>{course.name}</Link>  
       </td>
-      <td>{course.department}</td>
-      <td>{course.rating}</td>
-      <td>{course.numsReview}</td>
+      <td>{course.season}</td>
+      <td>{course.numReviews === 0 ? "NA" : course.rating }</td>
+      <td>{course.numReviews}</td>
     </tr>
   )
 }

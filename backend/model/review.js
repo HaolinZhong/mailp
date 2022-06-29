@@ -6,6 +6,11 @@ const reviewSchema = mongoose.Schema({
         required: true,
         ref: 'user'
     },
+    course: {
+        type: mongoose.Schema.Types.ObjectId,
+        required: true,
+        ref: 'course'
+    },
     body: {type: String, required: true},
     workload: {type: Number, required: true},
     difficulty: {type: Number, required: true},

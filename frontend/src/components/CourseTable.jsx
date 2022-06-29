@@ -5,13 +5,14 @@ import CourseRow from './CourseRow'
 const CourseTable = ({courses}) => {
   return (
     <Container className='my-5'>
-      <Table  hover>
+      <Table  hover size='sm' striped>
         <thead>
-          <tr>
-            <th>Course ID</th>
+          <tr style={{fontFamily: "Raleway"}}>
+            <th>Dept</th>
+            <th>Code</th>
             <th>Name</th>
-            <th>Department</th>
-            <th>Rating</th>
+            <th>Semester</th>
+            <th>Avg. Rating</th>
             <th># Reviews</th>
           </tr>
         </thead>
