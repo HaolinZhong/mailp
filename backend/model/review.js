@@ -10,8 +10,8 @@ const reviewSchema = mongoose.Schema({
     workload: {type: Number, required: true},
     difficulty: {type: Number, required: true},
     rating: {type: Number, required: true},
-    numsLike: {type: Number, default: 0},
-    numsDislike: {type: Number, default: 0}
+    numsLike: {type: Number, required: true, default: 0},
+    numsDislike: {type: Number, required: true, default: 0}
 }, {
     timestamps: true
 })

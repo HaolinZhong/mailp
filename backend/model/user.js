@@ -1,6 +1,8 @@
 import mongoose from "mongoose";
 import bcrypt from "bcryptjs";
+import dotenv from "dotenv";
 
+dotenv.config()
 
 const userSchema = mongoose.Schema({
     name: {
@@ -42,7 +44,7 @@ userSchema.pre('save', async function(next){
         next()
     }
 
-    const salt = await bcrypt.genSalt(10)
+    const salt = await bcrypt.genSalt(process.env.HASHROUNDS)
     this.password = await bcrypt.hash(this.password, salt)
 })
 
