@@ -8,7 +8,7 @@ import ReviewScreen from './screens/ReviewScreen'
 
 const App = () => {
     return (
-        <div className='app'>
+        <div>
             <Header />
             <Router>
                 <Routes>

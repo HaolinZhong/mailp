@@ -1,0 +1,3298 @@
+[
+    {
+        "dept": "BIST",
+        "code": "89260",
+        "name": "Building Interdisciplinary Research Models",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P6110",
+        "name": "Statistical Computing with SAS",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P6170",
+        "name": "New Drug Development: A Regulatory Overview",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8100",
+        "name": "Applied Regression I",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8101",
+        "name": "Introduction to Health Data Science",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8103",
+        "name": "Patient Oriented Research Career Development Colloquium",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8106",
+        "name": "Data Science II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8109",
+        "name": "Statistical Inference",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8110",
+        "name": "Applied Regression II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8120",
+        "name": "Analysis of Categorical Data",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8131",
+        "name": "Biostatistical Methods II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8139",
+        "name": "Statistical Genetic Modeling",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8140",
+        "name": "Introduction to Randomized Clinical Trials",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8144",
+        "name": "Pharmaceutical Statistics",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8158",
+        "name": "Latent Variable and Structural Equation Modeling for Health Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8160",
+        "name": "Topics in Advanced Statistical Computing",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8170",
+        "name": "Integrative Capstone Experience",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8180",
+        "name": "Relational Databases and SQL Programming for Research and Data Science",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8180",
+        "name": "Relational Databases and SQL Programming for Research and Data Science",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8185",
+        "name": "Capstone Consulting Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8185",
+        "name": "Capstone Consulting Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8185",
+        "name": "Capstone Consulting Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8185",
+        "name": "Capstone Consulting Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9110",
+        "name": "Theory of Statistical Inference II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9160",
+        "name": "Master's Essay in Biostatistics: Clinical Research Methods",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9185",
+        "name": "Statistical Practices and Research for Interdisciplinary Sciences (SPRIS)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P6320",
+        "name": "Fundamentals of Toxicology for Health-related Disciplines",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P6340",
+        "name": "Sustainable Development and Global Environmental Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P6360",
+        "name": "Analysis of Environmental Health Data",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P6370",
+        "name": "Journal Club in Molecular Epidemiology and Toxicology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P6385",
+        "name": "Principles of Genetics & the Environment",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8303",
+        "name": "Food Security, Plant Biology, Climate Change, and Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8304",
+        "name": "Public Health Impacts of Climate Change",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8313",
+        "name": "Toxicokinetics",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8320",
+        "name": "Applied Environmental and Industrial Hygiene",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8321",
+        "name": "Introduction to Data Science for Environmental Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8322",
+        "name": "Environmental Determinants of Human Health II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8323",
+        "name": "Laboratory Methods in Environmental Health Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8324",
+        "name": "Climate and Health Weekly Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8327",
+        "name": "Environmental Justice Health and Policy Analysis for Environmental Health Professionals",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8329",
+        "name": "Water, Sanitation, and Human Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8332",
+        "name": "Advanced Analytic Methods in EHS",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8334",
+        "name": "Computational Toxicology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8371",
+        "name": "Public Health GIS",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8371",
+        "name": "Public Health GIS",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8377",
+        "name": "EHS Policy Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9300",
+        "name": "Capstone: Critical Thinking and Analysis in Environmental Health Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9361",
+        "name": "Master's Essay Research I",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9362",
+        "name": "Master's Essay Research II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9370",
+        "name": "Journal Club in Environmental Health Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9380",
+        "name": "Advanced GIS and Spatial Analysis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9395",
+        "name": "Doctoral Research",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P6811",
+        "name": "Priorities in Global Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P6813",
+        "name": "Priorities in Global Mental Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8406",
+        "name": "Epidemiology of Infectious Diseases",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8415",
+        "name": "Chronic Disease Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8417",
+        "name": "Selected Problems of Measurement in Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8429",
+        "name": "Current Work in Injury Control and Prevention Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8438",
+        "name": "Epidemiology II: Design and Conduct of Observational Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8438",
+        "name": "Epidemiology II: Design and Conduct of Observational Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8438",
+        "name": "Epidemiology II: Design and Conduct of Observational Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8438",
+        "name": "Epidemiology II: Design and Conduct of Observational Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8438",
+        "name": "Epidemiology II: Design and Conduct of Observational Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8440",
+        "name": "Epidemiology of Cardiovascular Diseases",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8442",
+        "name": "Epidemiology and Control of Tuberculosis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8443",
+        "name": "Microbiome and Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8445",
+        "name": "Current and Emerging Issues in Injury and Violence",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8451",
+        "name": "Introduction to Machine Learning for Epidemiology and Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8476",
+        "name": "Epidemiology of Chronic Disease Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8477",
+        "name": "Epi Modeling for Infectious Diseases",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8481",
+        "name": "Seminar in Social Determinants of Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8483",
+        "name": "Applications of Epidemiologic Research Methods",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8490",
+        "name": "Tutorial in Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8490",
+        "name": "Tutorial in Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8499",
+        "name": "Field Methods in Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8820",
+        "name": "Advanced Topics in Global Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8881",
+        "name": "Global Health Pre-Practicum Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9400",
+        "name": "Epidemiology IV: Critical Thinking in Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9415",
+        "name": "Epidemiologic Challenges in Substance Use Research",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9419",
+        "name": "Master's Essay in Epidemiology I",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9420",
+        "name": "Master's Essay in Epidemiology II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9420",
+        "name": "Master's Essay in Epidemiology II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9440",
+        "name": "Applying the Causal Roadmap to Single Timepoint and Longitudinal Data",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9446",
+        "name": "Faculty-Fellow Seminar in Psychiatric Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9487",
+        "name": "Epi VI: Advanced Techniques in Epi Methods",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9489",
+        "name": "Application of Epi Research Methods II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9490",
+        "name": "Tutorial in Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9493",
+        "name": "Neurological Epidemiology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9494",
+        "name": "Publications, Presentations, and Scientific Writing",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6503",
+        "name": "Introduction to Health Economics",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6508",
+        "name": "Health Policy and the Political System",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6513",
+        "name": "Critical Issues in Hospital Management",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6520",
+        "name": "Healthcare in the Arts",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6529",
+        "name": "Healthcare Accounting and Budgeting",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6529",
+        "name": "Healthcare Accounting and Budgeting",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6545",
+        "name": "Analytics and Managerial Decision-Making I",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8202",
+        "name": "Behavioral Policy & Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8204",
+        "name": "Strategy for Health Policy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8205",
+        "name": "Venture Capital: Funding Innovation in Healthcare",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8210",
+        "name": "The Untold Stories in US Health Policy History",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8211",
+        "name": "Race and Public Policy: Interpreting Sub-Systemic Racism",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8212",
+        "name": "Digital Health Revolution",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8213",
+        "name": "Health Claims Data Analytics: Real-World Strategy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8215",
+        "name": "Case Competition Fundamentals",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8216",
+        "name": "Changing the Narrative: Disrupting Assumptions through Dialog & Self-Awareness",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8217",
+        "name": "Spurring Social Justice in Public Health: Creating Models for Practical Change",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8218",
+        "name": "Healthcare Leadership: Leading with Equity",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8219",
+        "name": "Public Health Communications:  Take this course. Communicate clearly. Save lives.",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8220",
+        "name": "Economics of Prevention",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8502",
+        "name": "Empirical Analysis for Health Policy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8515",
+        "name": "Health Care Marketing",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8515",
+        "name": "Health Care Marketing",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8517",
+        "name": "Management Challenges in the Evolving Healthcare and Insurance System",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8520",
+        "name": "Healthcare Ethics: Development and Management of Public Policy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8522",
+        "name": "Post-Acute and Long Term Care Delivery Systems",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8527",
+        "name": "Managing Human Capital in Health Systems",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8529",
+        "name": "Analytics & Managerial Decision Making II",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8531",
+        "name": "Health Policy and Political Analysis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8531",
+        "name": "Health Policy and Political Analysis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8533",
+        "name": "Healthcare Financial Management",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8536",
+        "name": "Health Innovation & Technology",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8544",
+        "name": "Environmental Health Economics",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8548",
+        "name": "Public Health Law",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8555",
+        "name": "Public Health Concepts for Managers",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8556",
+        "name": "Competitive Health Strategy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8556",
+        "name": "Competitive Health Strategy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8557",
+        "name": "Managerial and Organizational Behavior",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8558",
+        "name": "Strategic Management",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8568",
+        "name": "Decision Analysis for Clinical and Public Health Practices",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8571",
+        "name": "Pivot: Professional Strategic Communications",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8572",
+        "name": "Pivot: Professional Strategic Communications",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8585",
+        "name": "The Business of Healthcare: Reform and Contemporary Issues",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8586",
+        "name": "Applied Methods in Health Services and Outcomes Research",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8587",
+        "name": "Advanced Health Policy Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8593",
+        "name": "Strategic Investment in Healthcare",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8594",
+        "name": "Addressing the Opioid Crisis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8595",
+        "name": "Emerging Markets in Health Care: Public Ends Private Means",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8598",
+        "name": "On the Road from Volume to Value: Understanding Healthcare Payment Systems",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "MTFC",
+        "code": "G0003",
+        "name": "Matriculation & Facilities F/T (PhD)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "MTFC",
+        "code": "G0004",
+        "name": "Matriculation & Facilities P/T (PhD)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8601",
+        "name": "Public Health Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8602",
+        "name": "Seminar: Public Health Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8602",
+        "name": "Seminar: Public Health Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8602",
+        "name": "Seminar: Public Health Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8602",
+        "name": "Seminar: Public Health Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8602",
+        "name": "Seminar: Public Health Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8607",
+        "name": "Health and Human Rights Advocacy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8608",
+        "name": "The Public Health Impact of Sexually Transmitted Infections",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8616",
+        "name": "Public Health Aspects of Adolescent Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8617",
+        "name": "Research Design and Data Collection",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8620",
+        "name": "Protecting Children in Humanitarian Settings",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8623",
+        "name": "Quantitative Data Analysis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8623",
+        "name": "Quantitative Data Analysis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8624",
+        "name": "Breakout sessions for P8617",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8624",
+        "name": "Breakout sessions for P8617",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8624",
+        "name": "Breakout sessions for P8617",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8624",
+        "name": "Breakout sessions for P8617",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8625",
+        "name": "Outbreak Preparedness and Response in Resource-Limited Settings",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8628",
+        "name": "Evidence to Action in Child Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8635",
+        "name": "Realizing Global LGBTI Health and Human Rights:  Activism, Advocacy, and Humanitarian Action",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8636",
+        "name": "Policy on Illicit Drugs: Public Health and Human Rights Perspectives",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8637",
+        "name": "Qualitative Data Analysis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8640",
+        "name": "Methods in Program Evaluation",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8640",
+        "name": "Methods in Program Evaluation",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8645",
+        "name": "Environmental Justice Advocacy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8648",
+        "name": "Food and Nutrition in Complex Emergencies",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8654",
+        "name": "Malaria Program Planning",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8657",
+        "name": "Adverse Childhood Experiences and Trauma Informed Care",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8665",
+        "name": "Global Sexual and Reproductive Health and Rights",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8670",
+        "name": "Training of Trainers of Public Health Programs",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8673",
+        "name": "Sexual and Reproductive Health in Humanitarian Settings",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8679",
+        "name": "Investigative Methods in Complex Emergencies",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8679",
+        "name": "Investigative Methods in Complex Emergencies",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8681",
+        "name": "Beyond Motherhood",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8682",
+        "name": "Abortion in the United States: Politics, Policy and Provision",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8683",
+        "name": "Psychosocial and Mental Health Issues in Forced Migration",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8684",
+        "name": "Demography and Public Health: Understanding to Action",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8686",
+        "name": "The Protection of Human Rights in the Contemporary World",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8691",
+        "name": "Public Health Advocacy for Reproductive Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8693",
+        "name": "Capstone Paper-Heilbrunn Department of Population and Family Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P9620",
+        "name": "Applications of Implementation Science in Low- and Middle-Income Countries",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P9630",
+        "name": "Research Ethics and Responsible Conduct of Research",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P9651",
+        "name": "DrPH Dissertation Proposal Writing Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P9675",
+        "name": "Systems Thinking for Maternal Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P9691",
+        "name": "Lessons (Un)Learned in Humanitarian Assistance: A Historical Perspective",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P9691",
+        "name": "Lessons (Un)Learned in Humanitarian Assistance: A Historical Perspective",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "GU4100",
+        "name": "(Y)our Longer Life",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "P8086",
+        "name": "Public Health Practice Seminar",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "P9040",
+        "name": "Seminar in Managerial and Organizational Behavior",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "P9050",
+        "name": "Seminar in Strategic Management",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "P9060",
+        "name": "Essentials of Teaching and Communication",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "UN3200",
+        "name": "Introduction to Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RESI",
+        "code": "G0006",
+        "name": "1 Residence Unit (PhD)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RESI",
+        "code": "G0007",
+        "name": "1/2 Residence Unit (PhD)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RSRH",
+        "code": "P0001",
+        "name": "Doctoral Research Registration F/T (DrPH)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RSRH",
+        "code": "P0003",
+        "name": "Doctoral Research Registration P/T (DrPH)",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6728",
+        "name": "Health Promotion: Theory, Research, and Practice",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6728",
+        "name": "Health Promotion: Theory, Research, and Practice",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6750",
+        "name": "Confronting Obesity: Society, Structures, and Policy",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6760",
+        "name": "Community Engagement Practice",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6776",
+        "name": "Digital Storytelling: Why Public Health Matters",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6777",
+        "name": "Data Visualization and Storytelling",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6785",
+        "name": "Poisoned Worlds: Corporate Behavior & Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8705",
+        "name": "Evaluation of Health Programs",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8708",
+        "name": "SMS Master's Thesis",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8709",
+        "name": "Seminar in Sexuality, Gender, Health, and Human Rights",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8741",
+        "name": "Structural Approaches to Global Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8745",
+        "name": "Social and Economic Determinants of Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8745",
+        "name": "Social and Economic Determinants of Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8747",
+        "name": "Ethics of Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8762",
+        "name": "Chronic Disease and Community Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8766",
+        "name": "Designing Needs and Assets Assessments in Public Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8771",
+        "name": "Community Based Participatory Research",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8772",
+        "name": "Designing Public Health Interventions",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8772",
+        "name": "Designing Public Health Interventions",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8785",
+        "name": "Qualitative Research Methods",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8785",
+        "name": "Qualitative Research Methods",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8785",
+        "name": "Qualitative Research Methods",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8787",
+        "name": "Advanced Intervention Design",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8789",
+        "name": "Contemporary Debates in Sociomedical Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8792",
+        "name": "Dissemination and Implementation Science",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8794",
+        "name": "Society, Health Equity and Health Communication",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8795",
+        "name": "New Media and Health",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8796",
+        "name": "Quantitative Research Design for the Social Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8796",
+        "name": "Quantitative Research Design for the Social Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8796",
+        "name": "Quantitative Research Design for the Social Sciences",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8798",
+        "name": "Seminar in Research and Professional Development",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8901",
+        "name": "Seminar in Health Communication",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8901",
+        "name": "Seminar in Health Communication",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8906",
+        "name": "Communicating Health Risks to the Public",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8908",
+        "name": "The Global Menstrual Movement: Understanding Policy & Practice",
+        "season": "Spring",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8112",
+        "name": "Systematic Review and Meta-Analysis",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8120",
+        "name": "Analysis of Categorical Data",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9303",
+        "name": "Applied Environmental Public Health Science",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8400",
+        "name": "Principles of Epidemiology III: Applied Epidemiologic Analysis",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9419",
+        "name": "Master's Essay in Epidemiology I",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9420",
+        "name": "Master's Essay in Epidemiology II",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9446",
+        "name": "Faculty-Fellow Seminar in Psychiatric Epidemiology",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8508",
+        "name": "Analysis of Large Scale Data",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8514",
+        "name": "Governance, Health Law & Ethics",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8515",
+        "name": "Health Care Marketing",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8529",
+        "name": "Analytics & Managerial Decision Making II",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8533",
+        "name": "Healthcare Financial Management",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8536",
+        "name": "Health Innovation & Technology",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8545",
+        "name": "Applied Analysis of Complex Survey Data",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8556",
+        "name": "Competitive Health Strategy",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "MTFC",
+        "code": "G0003",
+        "name": "Matriculation & Facilities F/T (PhD)",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "MTFC",
+        "code": "G0004",
+        "name": "Matriculation & Facilities P/T (PhD)",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RESI",
+        "code": "G0006",
+        "name": "1 Residence Unit (PhD)",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RESI",
+        "code": "G0007",
+        "name": "1/2 Residence Unit (PhD)",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RSRH",
+        "code": "P0001",
+        "name": "Doctoral Research Registration F/T (DrPH)",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RSRH",
+        "code": "P0003",
+        "name": "Doctoral Research Registration P/T (DrPH)",
+        "season": "Summer",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P6104",
+        "name": "Introduction to Biostatistical Methods",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P6110",
+        "name": "Statistical Computing with SAS",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8100",
+        "name": "Applied Regression I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8103",
+        "name": "Patient Oriented Research Career Development Colloquium",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8104",
+        "name": "Probability",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8105",
+        "name": "Data Science I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8107",
+        "name": "Introduction to Mathematical Statistics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8108",
+        "name": "Survival Analysis",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8110",
+        "name": "Applied Regression II",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8119",
+        "name": "Advanced Statistical and Computational Methods in Genetics and Genomics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8120",
+        "name": "Analysis of Categorical Data",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8122",
+        "name": "Statistical Methods for Causal Inference",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8124",
+        "name": "Graphical Models for Complex Health Data",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8130",
+        "name": "Biostatistical Methods I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8140",
+        "name": "Introduction to Randomized Clinical Trials",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8142",
+        "name": "Clinical Trial Methodology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8149",
+        "name": "Human Population Genetics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8157",
+        "name": "Analysis of Longitudinal Data",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8180",
+        "name": "Relational Databases and SQL Programming for Research and Data Science",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P8180",
+        "name": "Relational Databases and SQL Programming for Research and Data Science",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9104",
+        "name": "Probability for Biostatisticians",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9109",
+        "name": "Theory of Statistical Inference I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9111",
+        "name": "Asymptotic Statistics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9120",
+        "name": "Topics in Statistical Learning and Data Mining I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9130",
+        "name": "Advanced Biostatistical Method I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9165",
+        "name": "Master's Essay in Biostatistics: Patient Oriented Research",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "BIST",
+        "code": "P9186",
+        "name": "Statistical Practices and Research for Interdisciplinary Science (SPRIS) II",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P6300",
+        "name": "Environmental Health Sciences",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8301",
+        "name": "Atmospheric and Climate Science for Public Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8306",
+        "name": "Occupational and Environmental Hygiene",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8307",
+        "name": "Molecular Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8308",
+        "name": "Molecular Toxicology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8312",
+        "name": "Principles of Toxicology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8317",
+        "name": "Frameworks for Environmental Health Policy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8318",
+        "name": "Science Basic to Public Health Practice",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8319",
+        "name": "Biomarkers in Environmental Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8325",
+        "name": "Risk Assessment, Communication, and Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8371",
+        "name": "Public Health GIS",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P8371",
+        "name": "Public Health GIS",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9303",
+        "name": "Applied Environmental Public Health Science",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9361",
+        "name": "Master's Essay Research I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9370",
+        "name": "Journal Club in Environmental Health Sciences",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EHSC",
+        "code": "P9395",
+        "name": "Doctoral Research",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P6400",
+        "name": "Principles of Epidemiology I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8400",
+        "name": "Principles of Epidemiology III: Applied Epidemiologic Analysis",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8410",
+        "name": "Psychiatric Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8414",
+        "name": "Cancer Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8416",
+        "name": "Spatial Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8421",
+        "name": "Introduction to Clinical Psychiatry for Epidemiology and Public Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8428",
+        "name": "Current Work in Injury Control and Prevention Seminar",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8430",
+        "name": "Public Health Surveillance",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8432",
+        "name": "Environmental Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8449",
+        "name": "Optimization for Interventions",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8450",
+        "name": "Clinical Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8465",
+        "name": "Epidemiology of HIV and AIDS",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8469",
+        "name": "Epidemiology of Malaria",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8470",
+        "name": "Epidemiology of Drug and Alcohol Problems",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8471",
+        "name": "Social Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8475",
+        "name": "Emerging Infectious Diseases",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8476",
+        "name": "Epidemiology of Chronic Disease Seminar",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8479",
+        "name": "Epidemiologic Methods in Global Mental Health Research",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8481",
+        "name": "Seminar in Social Determinants of Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P8493",
+        "name": "Lifecourse Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9405",
+        "name": "History of Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9410",
+        "name": "Biology and Pathophysiology for Epidemiologists",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9419",
+        "name": "Master's Essay in Epidemiology I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9419",
+        "name": "Master's Essay in Epidemiology I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9420",
+        "name": "Master's Essay in Epidemiology II",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9446",
+        "name": "Faculty-Fellow Seminar in Psychiatric Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9485",
+        "name": "Epidemiology V: Concepts in Causal Inference",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9490",
+        "name": "Tutorial in Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "EPID",
+        "code": "P9490",
+        "name": "Tutorial in Epidemiology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6503",
+        "name": "Introduction to Health Economics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6513",
+        "name": "Critical Issues in Hospital Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6529",
+        "name": "Healthcare Accounting and Budgeting",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6529",
+        "name": "Healthcare Accounting and Budgeting",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6530",
+        "name": "Issues and Approaches in Health Policy and Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6530",
+        "name": "Issues and Approaches in Health Policy and Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P6545",
+        "name": "Analytics and Managerial Decision-Making I",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8201",
+        "name": "SAS Insights for CEOR",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8214",
+        "name": "Law & Policy: Mass Incarceration in the United States",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8215",
+        "name": "Case Competition Fundamentals",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8220",
+        "name": "Economics of Prevention",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8508",
+        "name": "Analysis of Large Scale Data",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8508",
+        "name": "Analysis of Large Scale Data",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8510",
+        "name": "Strategic Issues in Health Care Quality",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8510",
+        "name": "Strategic Issues in Health Care Quality",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8513",
+        "name": "Healthcare Services for Vulnerable, At-Risk Populations",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8514",
+        "name": "Governance, Health Law & Ethics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8514",
+        "name": "Governance, Health Law & Ethics",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8517",
+        "name": "Management Challenges in the Evolving Healthcare and Insurance System",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8518",
+        "name": "Advanced Healthcare Finance: Valuation and Investment of Healthcare Businesses",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8518",
+        "name": "Advanced Healthcare Finance: Valuation and Investment of Healthcare Businesses",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8527",
+        "name": "Managing Human Capital in Health Systems",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8531",
+        "name": "Health Policy and Political Analysis",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8540",
+        "name": "Is Bigger Better? An Analysis of Consolidation in the Healthcare Industry",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8548",
+        "name": "Public Health Law",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8548",
+        "name": "Public Health Law",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8553",
+        "name": "Strategic Planning for Health Insurance Plans",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8557",
+        "name": "Managerial and Organizational Behavior",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8557",
+        "name": "Managerial and Organizational Behavior",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8558",
+        "name": "Strategic Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8559",
+        "name": "Comparative Strategic Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8561",
+        "name": "Managing Public Health Non-Profits",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8565",
+        "name": "Landscape of Healthcare Quality: Perspectives and Initiatives",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8566",
+        "name": "Entrepreneurship for Healthcare Managers",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8571",
+        "name": "Pivot: Professional Strategic Communications",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8575",
+        "name": "Cross-National Health Policy and Management",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8584",
+        "name": "Transforming the Delivery of Healthcare Services",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8596",
+        "name": "Computing in Context: Health Policy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "HPMN",
+        "code": "P8597",
+        "name": "The Politics and Policies of Humanitarian Aid and Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "MTFC",
+        "code": "G0003",
+        "name": "Matriculation & Facilities F/T (PhD)",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "MTFC",
+        "code": "G0004",
+        "name": "Matriculation & Facilities P/T (PhD)",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8600",
+        "name": "Pedagogy of Sexuality Education",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8607",
+        "name": "Health and Human Rights Advocacy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8607",
+        "name": "Health and Human Rights Advocacy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8615",
+        "name": "Current Issues in Sexual Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8623",
+        "name": "Quantitative Data Analysis",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8630",
+        "name": "Chronic Diseases in Humanitarian Settings",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8633",
+        "name": "Issues in School-Based Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8637",
+        "name": "Qualitative Data Analysis",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8638",
+        "name": "Digital Technology & Health Across The Lifespan",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8639",
+        "name": "Gender-Based Violence in Complex Emergencies",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8640",
+        "name": "Methods in Program Evaluation",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8645",
+        "name": "Environmental Justice Advocacy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8651",
+        "name": "Water and Sanitation in Complex Emergencies",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8654",
+        "name": "Malaria Program Planning",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8656",
+        "name": "Immigrant Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8661",
+        "name": "Planning, Managing & Communicating For Evidence-Based Public Health Research & Programs",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8662",
+        "name": "Child Development & Health Programs",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8676",
+        "name": "Epidemiological Methods for Measuring Human Rights Abuses",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8684",
+        "name": "Demography and Public Health: Understanding to Action",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8687",
+        "name": "Public Health and Humanitarian Action",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8688",
+        "name": "Forced Migration Practicum Seminar",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8693",
+        "name": "Capstone Paper-Heilbrunn Department of Population and Family Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8694",
+        "name": "Key Issues in Adolescent Sexual and Reproductive Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "POPF",
+        "code": "P8698",
+        "name": "Interdisciplinary Seminar in Population & Family Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "GU4200",
+        "name": "Environment, Health, and Justice: Concepts and Practice",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "P8086",
+        "name": "Public Health Practice Seminar",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "UN3200",
+        "name": "Introduction to Public Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "PUBH",
+        "code": "UN3400",
+        "name": "Data Science and Health Equity in New York City",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RESI",
+        "code": "G0006",
+        "name": "1 Residence Unit (PhD)",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RESI",
+        "code": "G0007",
+        "name": "1/2 Residence Unit (PhD)",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RSRH",
+        "code": "P0001",
+        "name": "Doctoral Research Registration F/T (DrPH)",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "RSRH",
+        "code": "P0003",
+        "name": "Doctoral Research Registration P/T (DrPH)",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6730",
+        "name": "Vital Records and Vital Statistics: The Backbone of Public Health in America",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P6775",
+        "name": "Health Communication",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8703",
+        "name": "Health Advocacy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8705",
+        "name": "Evaluation of Health Programs",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8705",
+        "name": "Evaluation of Health Programs",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8707",
+        "name": "SMS Thesis Proposal",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8736",
+        "name": "Theories and Perspectives on Sexuality and Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8745",
+        "name": "Social and Economic Determinants of Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8750",
+        "name": "Race and Health",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8755",
+        "name": "Introduction to Medical Anthropology",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8776",
+        "name": "Advancing Health Literacy",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8785",
+        "name": "Qualitative Research Methods",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8785",
+        "name": "Qualitative Research Methods",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8796",
+        "name": "Quantitative Research Design for the Social Sciences",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    },
+    {
+        "dept": "SOSC",
+        "code": "P8798",
+        "name": "Seminar in Research and Professional Development",
+        "season": "Fall",
+        "rating": 0,
+        "numsReview": 0
+    }
+]

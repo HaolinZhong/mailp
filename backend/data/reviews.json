@@ -1,0 +1,57 @@
+[
+  {
+    "semester_id" : "2022-2",
+    "rating" : "1",
+    "difficulty" : "5",
+    "workload" : "100",
+    "created" : "1652286792347",
+    "body" : "We're no strangers to love (two)\nYou know the rules and so do I (do I)\nA full commitment's what I'm thinking of\nYou wouldn't get this from any other guy",
+    "course_id" : "CS-6035",
+    "numsLike" : "10",
+    "numsDislike" : "5"
+  },
+  {
+    "semester_id" : "2022-3",
+    "rating" : "1.5",
+    "difficulty" : "4",
+    "workload" : "15",
+    "created" : "1652113793188",
+    "body" : "Don't let the title of \"applied\" fool you. This class is filled with 80% work that consists of mathmatical proofs(HWs and Exams) and 20% applied work (2 HW assignments). Overall the class is challenging but the TAs are helpful in their OH sessions so make sure to watch that to prepare for the HWs and Exams. I really wish this class wasn't required for the Cybersecurity Info Sec track, as I really didn't get much out of this class. There were a couple of golden nuggets, but this class was just 15 weeks of material that didn't interest me due to its irrelevance in my current work field. Luckily there is a nice curve, and the lowest quiz and HW assignment is dropped so you'll most likely pass with a C\/B even if you struggle with every assignment.   ",
+    "course_id" : "CS-6260",
+    "numsLike" : "10",
+    "numsDislike" : "5"
+  },
+  {
+    "semester_id" : "2022-1",
+    "rating" : "1",
+    "difficulty" : "3",
+    "workload" : "8",
+    "created" : "1652068644484",
+    "body" : "## Background\nOver 7 years of experience building tech products and currently working at one of the FAANGs as a senior software engineer.\n\n## Pros\n1. Great depth of content. If you are really looking to understand OS course material, the lectures and the content do an amazing job at it.\n2. The projects are fun. You get to recap a lot of C\/C++ and actually implement big projects with the languages.\n3. The Slack community is super engaging if you are up for it and you get to have interactions with other students that are typically rare in OMSCS courses.\n4. The exams are fair even though too heavily weighted for the amount of effort that goes into the projects. Right now 3 projects account for 45% and 2 exams account for 50% with 5% for participation credit. IMO it should be 60-35-5 or maybe even 60-40 with the 5% for participation being extra credit. The current extra credit model that they have is too strict and I doubt more than 1% of the class got anything at all.\n\n## Cons\n1. The biggest one for me - An absolute lack of quality support from the instructor or TA team. Let me justify my beliefs:\n\t* Except for Project 1, I barely saw any Piazza posts that had any _helpful_ replies from the instructor team in responsible time. There are some posts that get replies after a day or two but a lot of those replies are either unhelpful or downright condescending.\n\t* For projects, you will still be able to get a ton of help from the students on Slack or Piazza. Slack is faster and better mostly though. To be honest helpful students deserve partial pay of the TAs in this course. There were 4-5 students in a class of 700 (~400 after the withdrwal deadline) who helped everyone throughout the semester and if it wasn't for them, we probably wouldn't get any help.\n\t* When it comes to doubts regarding the lectures or theoretical content, all platforms are quieter than the quietest night. Again students to the rescue to some degree here. Credit where due though, you can ask Profressor Ada questions during office hours where she does respond properly to all queries but with the frequency of office hours and the limited time, it's not the right platform to collect all the questions and ask in one go. But the TAs are responsible for answering these queries and they have at times the gall to say that they don't remember the concepts as they took the class years ago. I mean what are you being paid for?\n2. The projects and the lectures don't really go hand in hand. They feel a bit out of place. But that's alright since they are fun to implement. However, my biggest concern with the projects is unclear expectations and requirements.\n\t* Project 1 has so many hidden requirements that you will find yourself evaluating the requirements from Gradescope errors. And even once you find out these new requirements, if you go back through the README to see how did you miss it, the answer is usually that they never mentioned it.\n\t* The expectations from student READMEs are extremely vague and the evaluations are equally ridiculuous. Most of the project README evaluations are based on the gut of the TA evaluating them. Which brings me to the next con.\n3. A huge lack of quality feedback. If I am taking an academic course, I am doing so to improve upon my failures, not to simply score some marks and get a passing grade.\n\t* We never received the correct answers for the midterm exam or the final exam so we have no clue why something is marked as incorrect and what was the expected correct answer.\n\t* The feedback on project READMEs is laughable. I had a single line of feedback basically saying I didn't express myself well. Now what the hell do I make out of such a feedback? All it tells me is how bad you are at your job as a TA.\n\n## TL;DR\nDon't get me wrong. Even with these massive cons, the course is comfortably doable, fun and I am on track for an A grade, but the experience is so lacking that I would **never pay for this course out of my pocket**. I would rather just watch the lecture videos on Youtube\/Udacity and I will get 80% of the ROI of this course. The rest 20% ROI is in the Slack community to be honest which again you can simply join with the GT Slack account.\nIf I wasn't taking two courses in the semester, I would have withdrawn from the course and got my money back.\n\n## P.S.\nI took this course based on the reviews but yeah definitely not for me as this is NOT the experience that I expect. If I wanted a paid MOOC, I would have just gone for Udacity. \nIt also made me realize that most courses in CS spec will be like this based on more feedback from peers so I decided to change to II spec after this course.",
+    "course_id" : "CS-6200",
+    "numsLike" : "10",
+    "numsDislike" : "5"
+  },
+  {
+    "semester_id" : "2022-1",
+    "rating" : "4",
+    "difficulty" : "1",
+    "workload" : "4",
+    "created" : "1651453027591",
+    "body" : "My background: 6 years working in tech, CS undergrad w\/ math minor, lots of hobbyist experience with networking and Linux.\n\nThis was my first OMSCS course and a good course overall. The projects were interesting even if some of the writeups were a bit unclear in their instructions. Some of the quizzes and exam questions were confusingly worded and seemed to be designed to confuse rather than evaluate but if you read the chapters for each assessment you shouldn't have a hard time scoring >80% on them.\n\nMy previous experience certainly helped with the projects but the resources to figure them out are out there. The TAs were a huge help on Slack and on Ed.\n\nMy advice if you're considering this course is to get started on each project as soon as it opens and attend or watch the recorded office hours. Keep an eye out on Ed and Slack for any clarifications from TAs and you should be able to get an A in this course.",
+    "course_id" : "CS-6035",
+    "numsLike" : "10",
+    "numsDislike" : "5"
+  },
+  {
+    "semester_id" : "2021-1",
+    "rating" : "5",
+    "difficulty" : "3",
+    "workload" : "10",
+    "created" : "1644862400790",
+    "body" : "I'm putting in this review a year after I took this class because I am in GA now and Applied Cryptography is the ONLY class that prepared me for GA (for reference, I'm in OMSCS - ML track). Not in content (except for the RSA unit), but in the structure of the course and the \"proof\" nature of the problems, and the fact that you just need to memorize some methods and be able to apply them to future situations. That is invaluable in GA right now. So definitely take this class! Put in the work and by the time you get to GA, you will be glad you did!",
+    "course_id" : "CS-6260",
+    "numsLike" : "10",
+    "numsDislike" : "5"
+  }
+]
