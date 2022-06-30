@@ -14,8 +14,12 @@ app.use(express.json());
 app.use("/api/courses", courseRoute);
 
 
+app.use(notFound);
+app.use(errorHandler);
+
 app.get("/", (req, res) => {
     res.send("API is running");
 })
+
 
 app.listen(5000, console.log("Server started!"));
