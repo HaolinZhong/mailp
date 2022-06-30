@@ -2,6 +2,7 @@ import dotenv from 'dotenv';
 import connectDB from './config/db.js';
 import express, { json } from 'express';
 import courseRoute from "./routes/courseRoute.js";
+import { notFound, errorHandler} from "./middleware/errorMiddleware.js"
 
 dotenv.config();
 
