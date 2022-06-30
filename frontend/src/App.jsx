@@ -6,6 +6,7 @@ import HomeScreen from './screens/HomeScreen'
 import CourseScreen from './screens/CourseScreen'
 import ReviewScreen from './screens/ReviewScreen'
 import LoginScreen from './screens/LoginScreen'
+import RegisterScreen from './screens/RegisterScreen'
 
 const App = () => {
     return (
@@ -17,6 +18,7 @@ const App = () => {
                     <Route path='/courses' element={<CourseScreen/>} />
                     <Route path='/courses/:id' element={<ReviewScreen/>} />
                     <Route path='/login' element={<LoginScreen/>} />
+                    <Route path="/register" element={<RegisterScreen />} />
                 </Routes>
             </Router>
             <Footer />
