@@ -9,13 +9,17 @@ const ReviewRow = ({ review }) => {
     return (
         <Container className='py-3 px-5' fluid="md">
             <Card className='shadow'>
-                <Card.Header className='d-flex justify-content-between align-items-center'>
-                    <Rating value={review.rating}/>
-                    <span className='text-right'>{date.toISOString().slice(0, 10)}</span>
-                </Card.Header>
                 <Card.Body>
+                    <Row>
+                        <Card.Title className='d-flex justify-content-between align-items-center' style={{ fontFamily: "Raleway", fontSize: 17 }}>
+                            <Rating value={review.rating} />
+                            <span className='text-right'>Reviewed on {date.toDateString().slice(4)}</span>
+                        </Card.Title>
+                    </Row>
+
                     <Row className='my-3'>
-                        <Card.Text style={{fontSize: 15, fontFamily: 'Roboto'}}>
+
+                        <Card.Text style={{ fontSize: 15, fontFamily: 'Roboto' }}>
                             {review.body}
                         </Card.Text>
                     </Row>
@@ -29,14 +33,13 @@ const ReviewRow = ({ review }) => {
                         </Col>
                         <Col md="7"></Col>
 
-                        <Col md="1">
-                            <span><i class="fa-regular fa-thumbs-up">{`  ${review.numsLike}`}</i></span>
 
+                        <Col md="1" />
+
+                        <Col md="1" style={{ fontFamily: "Raleway", fontSize: 20 }}>
+                            <span><i class="fa-regular fa-thumbs-up" style={{ color: "grey" }} />{`  ${review.numsLike}`}</span>
                         </Col>
 
-                        <Col md="1">
-                            <span><i class="fa-regular fa-thumbs-down">{`  ${review.numsDislike}`}</i></span>
-                        </Col>
 
                     </Row>
 

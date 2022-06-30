@@ -49,7 +49,7 @@ const Header = () => {
                             </NavDropdown>
 
                             <Nav.Link className='mx-2 my-1'>
-                                <iframe src="https://ghbtns.com/github-btn.html?user=HaolinZhong&repo=mailp&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+                                <iframe src="https://ghbtns.com/github-btn.html?user=HaolinZhong&repo=mailp&type=star&count=true" frameborder="0" scrolling="0" width="80" height="20" title="GitHub"></iframe>
                             </Nav.Link>
 
                         </Nav>

@@ -31,7 +31,7 @@ const HomeScreen = () => {
           title="Privacy?"
           content="All reviews are shown anonymously."
           btnTo="about"
-          btnMessage="Privacy Policy"
+          btnMessage="Detailed Policy"
         />
 
       </Row>

@@ -11,7 +11,7 @@ const ReviewScreen = () => {
 
     return (
         <Container className='px-5 py-3'>
-            {curReviews.map(review => (
+            {reviews.map(review => (
                 <ReviewRow review={review} />
             ))}
         </Container>

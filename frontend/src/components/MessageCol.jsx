@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button, Card, Col, Row } from 'react-bootstrap'
+import { LinkContainer } from 'react-router-bootstrap'
 
 const MessageCol = ({ title, content, btnTo, btnMessage }) => {
     return (
@@ -9,13 +10,15 @@ const MessageCol = ({ title, content, btnTo, btnMessage }) => {
                     <Card.Title style={{ fontFamily: "Raleway", fontSize: 30 }} className="my-2">{title}</Card.Title>
                     <Card.Text style={{ fontSize: 16 }} className="py-1">{content}</Card.Text>
                     {btnTo && (
-                        <Button
-                            variant="outline-primary"
-                            size='md' 
-                            className='float-end'
-                        >
-                            {btnMessage}
-                        </Button>
+                        <LinkContainer to={btnTo}>
+                            <Button
+                                variant="outline-primary"
+                                size='md'
+                                className='float-end'
+                            >
+                                {btnMessage}
+                            </Button>
+                        </LinkContainer>
                     )}
                 </Card.Body>
 
