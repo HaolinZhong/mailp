@@ -7,10 +7,11 @@ const CourseTable = ({courses}) => {
     <Container className='my-5'>
       <Table  hover size='sm' striped>
         <thead>
-          <tr style={{fontFamily: "Raleway"}}>
+          <tr style={{fontFamily: "Raleway", fontSize: 13, textAlign: "center"}}>
             <th>Dept</th>
             <th>Code</th>
             <th>Name</th>
+            <th>Sect</th>
             <th>Semester</th>
             <th>Avg. Rating</th>
             <th># Reviews</th>
