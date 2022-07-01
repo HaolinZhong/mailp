@@ -23,6 +23,16 @@ const userSchema = mongoose.Schema({
         required: true,
         default: false
     },
+    isActive: {
+        type: Boolean,
+        required: true,
+        default: false
+    },
+    verifyToken: {
+        type: String,
+        required: true,
+        unique: true
+    },
     reviews: [{
         review: {
             type: mongoose.Schema.Types.ObjectId,

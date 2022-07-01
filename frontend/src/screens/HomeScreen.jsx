@@ -1,7 +1,6 @@
 import React from 'react'
-import { Card, Col, Container, Image, Row } from 'react-bootstrap'
+import { Container, Image, Row } from 'react-bootstrap'
 import MessageCol from '../components/MessageCol'
-import courses from "../data/courses.json"
 import cover from "../components/cover.jpg"
 
 const HomeScreen = () => {

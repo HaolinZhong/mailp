@@ -11,7 +11,7 @@ const ReviewRow = ({ review }) => {
             <Card className='shadow'>
                 <Card.Body>
                     <Row>
-                        <Card.Title className='d-flex justify-content-between align-items-center' style={{ fontFamily: "Raleway", fontSize: 17 }}>
+                        <Card.Title className='d-flex justify-content-between align-items-center' style={{ fontFamily: "Raleway", fontSize: 17}}>
                             <Rating value={review.rating} />
                             <span className='text-right'>Reviewed on {date.toDateString().slice(4)}</span>
                         </Card.Title>

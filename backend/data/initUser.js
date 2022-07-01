@@ -8,12 +8,17 @@ const initUsers = [
         name: 'admin',
         email: process.env.TEST_ADMIN_ACCOUNT,
         password: bcrypt.hashSync(process.env.TEST_ADMIN_PASSWORD, Number(process.env.HASHROUNDS)),
-        isAdmin: true
+        isAdmin: true,
+        isActive: true,
+        verifyToken: process.env.TEST_ADMIN_VERIFY
     },
     {
         name: 'user',
         email: process.env.TEST_USER_ACCOUNT,
-        password: bcrypt.hashSync(process.env.TEST_USER_PASSWORD, Number(process.env.HASHROUNDS))
+        verifiedEmail: process.env.TEST_USER_ACCOUNT,
+        password: bcrypt.hashSync(process.env.TEST_USER_PASSWORD, Number(process.env.HASHROUNDS)),
+        isActive: true,
+        verifyToken: process.env.TEST_USER_VERIFY
     }
 ]
 
